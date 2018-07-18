@@ -1,0 +1,1 @@
+recon-all -i /home/bonnie/work/theCodes/MPRAGE/001/ACPC/MPRAGE.ACPC.nii.gz -s <subject_name> -all
